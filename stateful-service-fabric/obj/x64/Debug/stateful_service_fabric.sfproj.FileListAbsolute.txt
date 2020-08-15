@@ -1,0 +1,1 @@
+E:\github-repo\stateful-service-fabric\stateful-service-fabric\obj\x64\Debug\stateful_service_fabric.sfproj.CoreCompileInputs.cache
